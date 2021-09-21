@@ -139,5 +139,60 @@
 		"size": 345066,
 		"dimensions": "4000 x 1800 px",
 		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Gradient 14",
+		"author": "Bhaskar Dey",
+		"url": "https://raw.githubusercontent.com/bhaskar966/BeeUI-KWGT/main/RectangleWall14.png",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/BeeUI-KWGT/main/RectangleWall14_Thumb.jpg",
+		"collections": "GRADIENT",
+		"downloadable": false,
+		"size": 345066,
+		"dimensions": "4000 x 1800 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Gradient 15",
+		"author": "Bhaskar Dey",
+		"url": "https://raw.githubusercontent.com/bhaskar966/BeeUI-KWGT/main/UntitledWall15.png",
+		"thumbnail": "https://github.com/bhaskar966/BeeUI-KWGT/raw/main/UntitledWall15_thumb.jpg",
+		"collections": "GRADIENT",
+		"downloadable": false,
+		"size": 345066,
+		"dimensions": "4000 x 1800 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Gradient 16",
+		"author": "Bhaskar Dey",
+		"url": "https://raw.githubusercontent.com/bhaskar966/BeeUI-KWGT/main/UntitledWall16.png",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/BeeUI-KWGT/main/UntitledWall16_Thumb.jpg",
+		"collections": "GRADIENT",
+		"downloadable": false,
+		"size": 345066,
+		"dimensions": "4000 x 1800 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Gradient 17",
+		"author": "Bhaskar Dey",
+		"url": "https://raw.githubusercontent.com/bhaskar966/BeeUI-KWGT/main/UntitledWall17.png",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/BeeUI-KWGT/main/UntitledWall17_thumb.jpg",
+		"collections": "GRADIENT",
+		"downloadable": false,
+		"size": 345066,
+		"dimensions": "4000 x 1800 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Gradient 18",
+		"author": "Bhaskar Dey",
+		"url": "https://raw.githubusercontent.com/bhaskar966/BeeUI-KWGT/main/UntitledWall18.png",
+		"thumbnail": "https://raw.githubusercontent.com/bhaskar966/BeeUI-KWGT/main/UntitledWall18_thumb.jpg",
+		"collections": "GRADIENT",
+		"downloadable": false,
+		"size": 345066,
+		"dimensions": "4000 x 1800 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
 	}
 ]
